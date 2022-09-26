@@ -4,4 +4,4 @@
 # ajout ligne sur visual code ou pycharm test
 # test n2 
 # changement ppour branche 260922
-#update du fichier 
+#update du fichier ..
